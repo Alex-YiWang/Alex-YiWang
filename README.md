@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alex-YiWang
+- 👀 I’m interested in Codeing
+- 🌱 I’m currently learning Python and IC
